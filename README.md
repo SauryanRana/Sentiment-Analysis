@@ -1,4 +1,4 @@
-# Sentiment-Analysis
+# Sentiment-Analysis on Twitter Datasets
 
 In this project, we explore sentiment analysis techniques for textual data utilizing a range of machine learning models. Our objective is to accurately classify sentiments into positive, negative, or neutral categories based on the data.
 
